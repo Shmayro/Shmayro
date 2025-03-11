@@ -16,7 +16,7 @@ Hello! I'm **Haroun EL ALAMI**, a passionate software engineer specializing in f
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=Shmayro&theme=github_dark" alt="Haroun GitHub streaks" />
+  <img height="150px" src="https://streak-stats.demolab.com/?user=Shmayro&theme=github-dark" alt="Haroun GitHub streaks" />
   <img height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shmayro&theme=github_dark" alt="profile-details" />
 </div>
 
